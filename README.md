@@ -1,16 +1,24 @@
+WIP
+
 # structurenotes
 
 Give your notes structure.
 
-## Getting Started
+StructureNotes is meant primarily for logging information.
+For example, StructureNotes can be used as a powerful check book.
+It could be used to track mood or sleep.
+Or even lab data.
 
-This project is a starting point for a Flutter application.
+StructureNotes is a note taking app based on upon giving notes a structure.
+Notes are first given a form, outlined as a list of attributes. Attributes
+consist of a name and type. Notes can hold multiple entries which each follow
+the note's form.
 
-A few resources to get you started if this is your first Flutter project:
+Everything -- including attributes in the note's form... entries... folders...
+can be moved around and modified after the note already has existing data
+(some limitations).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Platform
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built primarily for Mobile & Desktop using Flutter.
+State is managed with RiverPod.
