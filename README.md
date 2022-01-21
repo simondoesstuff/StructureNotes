@@ -1,6 +1,6 @@
 WIP
 
-# structurenotes
+# Structure Notes
 
 Give your notes structure.
 
